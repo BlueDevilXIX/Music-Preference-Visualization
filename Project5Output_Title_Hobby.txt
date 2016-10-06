@@ -1,0 +1,153 @@
+Song Title: All These Things I've Done
+Song Artist: The Killers
+Song Genre: alternative
+Song Year: 2005
+Heard
+reading41 art37 sports34 music35
+Likes
+reading41 art40 sports33 music38
+
+Song Title: All You Need Is Love
+Song Artist: The Beatles
+Song Genre: pop rock
+Song Year: 1967
+Heard
+reading90 art70 sports72 music81
+Likes
+reading79 art56 sports61 music72
+
+Song Title: American Pie
+Song Artist: Don McLean
+Song Genre: folk rock
+Song Year: 1971
+Heard
+reading73 art58 sports63 music68
+Likes
+reading62 art47 sports54 music63
+
+Song Title: Anarchy in the UK
+Song Artist: The Sex Pistols
+Song Genre: punk
+Song Year: 1976
+Heard
+reading20 art12 sports31 music38
+Likes
+reading22 art8 sports31 music29
+
+Song Title: Another One Bites the Dust
+Song Artist: Queen
+Song Genre: disco
+Song Year: 1980
+Heard
+reading93 art83 sports87 music80
+Likes
+reading83 art63 sports67 music70
+
+Song Title: Bad Blood
+Song Artist: Taylor Swift
+Song Genre: pop
+Song Year: 2015
+Heard
+reading83 art79 sports84 music90
+Likes
+reading51 art47 sports53 music46
+
+Song Title: Boom Boom Pow
+Song Artist: The Black Eyed Peas
+Song Genre: hip hop
+Song Year: 2009
+Heard
+reading90 art75 sports91 music85
+Likes
+reading43 art29 sports47 music27
+
+Song Title: Call Me
+Song Artist: Blondie
+Song Genre: dance rock
+Song Year: 1980
+Heard
+reading46 art41 sports22 music42
+Likes
+reading44 art26 sports20 music30
+
+Song Title: Every Breath You Take
+Song Artist: The Police
+Song Genre: rock
+Song Year: 1983
+Heard
+reading66 art58 sports65 music69
+Likes
+reading51 art43 sports52 music62
+
+Song Title: I Will Always Love You
+Song Artist: Whitney Houston
+Song Genre: country
+Song Year: 1973
+Heard
+reading80 art83 sports65 music81
+Likes
+reading51 art54 sports47 music53
+
+Song Title: Imagine
+Song Artist: John Lennon
+Song Genre: soft rock
+Song Year: 1971
+Heard
+reading63 art58 sports66 music72
+Likes
+reading58 art43 sports60 music60
+
+Song Title: Life On Mars?
+Song Artist: David Bowie
+Song Genre: glam rock
+Song Year: 1971
+Heard
+reading13 art13 sports11 music32
+Likes
+reading14 art9 sports10 music24
+
+Song Title: No One
+Song Artist: Alicia Keys
+Song Genre: R&B
+Song Year: 2007
+Heard
+reading46 art30 sports56 music59
+Likes
+reading35 art18 sports40 music41
+
+Song Title: Party Rock Anthem
+Song Artist: LMFAO
+Song Genre: EDM
+Song Year: 2011
+Heard
+reading86 art79 sports87 music87
+Likes
+reading53 art50 sports47 music43
+
+Song Title: Smells Like Teen Spirit 
+Song Artist: Nirvana
+Song Genre: grunge
+Song Year: 1991
+Heard
+reading63 art62 sports59 music71
+Likes
+reading51 art47 sports55 music63
+
+Song Title: Take Me To Church
+Song Artist: Hozier
+Song Genre: indie rock
+Song Year: 2013
+Heard
+reading73 art66 sports80 music83
+Likes
+reading62 art52 sports54 music61
+
+Song Title: Tik Tok
+Song Artist: Ke$ha
+Song Genre: electronic
+Song Year: 2009
+Heard
+reading80 art79 sports79 music84
+Likes
+reading46 art25 sports37 music42
+
